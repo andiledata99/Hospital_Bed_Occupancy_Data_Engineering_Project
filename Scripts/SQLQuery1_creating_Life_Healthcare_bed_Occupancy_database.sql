@@ -1,0 +1,1 @@
+CREATE DATABASE Life_Healthcare_Bed_Occupancy;
