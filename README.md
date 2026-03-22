@@ -2,6 +2,7 @@
 This repository demonstrates a data engineering workflow for building a healthcare analytics solution. The project models hospital bed occupancy using a star schema, implemented in SQL Server Management Studio (SSMS), and showcases the full lifecycle from schema design to querying insights.
 
 **🏥 Hospital Bed Occupancy Data Engineering Project**
+The objective of this project is to design and implement a data warehouse solution that enables healthcare stakeholders to monitor, analyze, and optimize hospital bed occupancy. By applying data engineering principles—including star schema modeling, database creation in SQL Server Management Studio (SSMS), data population, and SQL querying—this project demonstrates how raw hospital data can be transformed into actionable insights.
 
 **🔧 Data Engineering Workflow**
 
